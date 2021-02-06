@@ -1,0 +1,11 @@
+input_file = test files\InputFile.txt
+output_file = test files\OutputFile.txt
+
+EXECUTOR_CONFIGS = configs\all_my\myExecutor1.txt, configs\all_my\myExecutor2.txt
+READER_CONFIG = configs\all_my\myReader.txt
+writer_config = configs\all_my\myWriter.txt
+
+writer_name = Writer
+reader_Name = Reader
+
+Executors = Executor, Executor
